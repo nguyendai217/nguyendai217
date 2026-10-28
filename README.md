@@ -1,9 +1,10 @@
+<!--
 <div align="center">
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:80% " />
 </div>  
 <br/>
 
-# <div align="center">Hello guys, welcome to my github 👨‍💻 🚀</div>  
+ # <div align="center">Hello guys, welcome to my github 👨‍💻 🚀</div>  
   <br/>
 
 - 🔭 I’m currently working at VNC Software Company 
@@ -13,9 +14,9 @@
   
 
 - ⚡ Fun fact: I love sleeping at weekend and listening music 😋  
-  
 
-<br/>  
+
+<br/> 
 
 
 
@@ -67,3 +68,4 @@
 <br/>  
 
 ------------
+ -->
